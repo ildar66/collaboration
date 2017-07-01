@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0.2
+Specification-Title: Struts Framework
+Specification-Version: 1.0
+Implementation-Title: Struts Framework
+Extension-Name: Struts Framework
+Created-By: Ant 1.4.1
+Implementation-Vendor-Id: org.apache
+Implementation-Vendor: Apache Software Foundation
+Specification-Vendor: Apache Software Foundation
+

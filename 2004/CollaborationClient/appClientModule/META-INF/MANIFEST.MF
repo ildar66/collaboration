@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.hps.july.sync.client.CollaborationClientForNRI
+Class-Path:  CollaborationEJB.jar
+
